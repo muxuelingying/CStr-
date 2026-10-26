@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CStr类/CStr类.vcxproj" Id="4efe498a-5782-44c8-93aa-868fa5211ad4" />
+</Solution>
